@@ -1,2 +1,2 @@
-# Switch-Arduino-Buzzer-
-This project integrates a keyboard chipset with an Arduino to create a versatile switch buzzer system. By mapping keyboard inputs to Arduino-controlled outputs, the setup detects specific key presses to activate a buzzer.
+# Localbuzz
+This project creates an interactive buzzer system using Java Swing and key events. The program displays a graphical interface where pressing specific keys triggers corresponding actions. Each keypress activates a buzzer sound, changes the display label to a designated house name, and updates the label color. This setup is ideal for use cases like quiz systems, where participants' keypresses signal their responses.
